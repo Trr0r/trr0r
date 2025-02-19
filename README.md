@@ -101,7 +101,7 @@
 ###
 
 <div align="left">
-  <img height="50" src="https://www.hackthebox.com/badge/image/1727620"  />
+  ![HackTheBox](https://www.hackthebox.com/badge/image/1727620)
 </div>
 
 ###
