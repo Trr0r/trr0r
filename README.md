@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!</p>
+<img align="right" height="200" src="https://avatars.githubusercontent.com/u/128630899?s=400&u=cdd54f8fc1f10e5228c77b519d420ed5654b518c&v=4"  />
 
 ###
 
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/128630899?s=400&u=cdd54f8fc1f10e5228c77b519d420ed5654b518c&v=4"  />
+<p align="left">Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!</p>
 
 ###
 
@@ -48,8 +48,20 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/trr0r/count.svg?"  />
+<p align="left">Redes</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/alvarobernalll" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Trr0r_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
 </div>
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2709659" style='border:none;'></iframe>
 
 ###
