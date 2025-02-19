@@ -62,6 +62,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
 </div>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2709659" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/TerrorAterrador.png" alt="Your Image Badge" />
 
 ###
