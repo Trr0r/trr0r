@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Soy un joven apasionado de la informática, en concreto de la **ciberseguridad** y el **desarrollo web**.</p>
+<p align="left">Soy un joven apasionado de la informática, en concreto de la <strong>ciberseguridad</strong> y el <strong>desarrollo web</strong>.</p>
 
 ###
 
