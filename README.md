@@ -1,4 +1,4 @@
-<h2 align="left">Hola👋! My name is Álvaro Bernal and I'm a trr0r</h2>
+<h1 align="left">Hola👋! Soy Álvaro Bernal (aka. trr0r)</h1>
 
 ###
 
@@ -10,9 +10,13 @@
 
 ###
 
+<img align="right" src="https://profile-counter.glitch.me/trr0r/count.svg?"  />
+
+###
+
 <br clear="both">
 
-<p align="left">Tecnologías</p>
+<h2 align="left">Tecnologías</h2>
 
 ###
 
@@ -48,7 +52,18 @@
 
 ###
 
-<p align="left">Redes</p>
+<h2 align="left">Estadísticas</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trr0r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trr0r&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">Redes</h2>
 
 ###
 
@@ -59,15 +74,18 @@
   <a href="https://x.com/Trr0r_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
 </div>
 
 ###
 
-<img align="left" height="100" src="https://tryhackme-badges.s3.amazonaws.com/TerrorAterrador.png"  />
+<div align="left">
+  <img height="50" src="https://www.hackthebox.com/badge/image/1727620"  />
+</div>
 
 ###
 
-<img align="left" height="85" src="https://www.hackthebox.com/badge/image/1727620"  />
+<div align="left">
+  <img height="60" src="https://tryhackme-badges.s3.amazonaws.com/TerrorAterrador.png"  />
+</div>
 
 ###
