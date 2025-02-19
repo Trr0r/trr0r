@@ -62,7 +62,12 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
 </div>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/TerrorAterrador.png" alt="Your Image Badge" />
-<img src="https://www.hackthebox.com/badge/image/1727620" alt="Your Image Badge" />
+###
+
+<img align="left" height="100" src="https://tryhackme-badges.s3.amazonaws.com/TerrorAterrador.png"  />
+
+###
+
+<img align="left" height="85" src="https://www.hackthebox.com/badge/image/1727620"  />
 
 ###
