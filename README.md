@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Álvaro Beranl</h1>
+<h1 align="center">Hola 👋, Soy Álvaro Bernal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trr0r&label=Profile%20views&color=0e75b6&style=flat" alt="trr0r" /> </p>
 
 - ⁇ precio ⁇ Todos mis proyectos están disponibles en [https://trr0r.github.io/projects](https://trr0r.github.io/projects)
