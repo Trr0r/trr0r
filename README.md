@@ -100,8 +100,6 @@
 
 ###
 
-<div align="left">
 [![HackTheBox](https://www.hackthebox.com/badge/image/1727620)](https://app.hackthebox.com/profile/1727620)
-</div>
 
 ###
