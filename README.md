@@ -100,6 +100,10 @@
 
 ###
 
-[![HackTheBox](https://www.hackthebox.com/badge/image/1727620)](https://app.hackthebox.com/profile/1727620)
+<div align="left">
+  <a href="https://app.hackthebox.com/profile/1727620" target="_blank">
+    <img src="https://www.hackthebox.com/badge/image/1727620">
+  </a>
+</div>
 
 ###
