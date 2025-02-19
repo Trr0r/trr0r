@@ -63,5 +63,6 @@
 </div>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/TerrorAterrador.png" alt="Your Image Badge" />
+<img src="https://www.hackthebox.com/badge/image/1727620" alt="Your Image Badge" />
 
 ###
